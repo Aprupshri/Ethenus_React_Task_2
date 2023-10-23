@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Ethenus_React_Task_2/static/css/main.eed57c04.css",
+    "main.js": "/Ethenus_React_Task_2/static/js/main.be824a60.js",
+    "static/js/787.aad65a53.chunk.js": "/Ethenus_React_Task_2/static/js/787.aad65a53.chunk.js",
+    "static/media/moon.png": "/Ethenus_React_Task_2/static/media/moon.b6cf85048f54febb31a9.png",
+    "index.html": "/Ethenus_React_Task_2/index.html",
+    "main.eed57c04.css.map": "/Ethenus_React_Task_2/static/css/main.eed57c04.css.map",
+    "main.be824a60.js.map": "/Ethenus_React_Task_2/static/js/main.be824a60.js.map",
+    "787.aad65a53.chunk.js.map": "/Ethenus_React_Task_2/static/js/787.aad65a53.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eed57c04.css",
+    "static/js/main.be824a60.js"
+  ]
+}
